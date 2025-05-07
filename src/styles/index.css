@@ -9,3 +9,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem;
+}
+
+.card {
+    margin: 1rem;
+    box-shadow: 0 4px 8px rgba(0,0, 0, 0.1);
+}
+
